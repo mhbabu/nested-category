@@ -1,0 +1,56 @@
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+PHP Warning:  require(/var/www/vendor/autoload.php): Failed to open stream: No such file or directory in /var/www/artisan on line 18
+PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/www/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/artisan on line 18
+PHP Warning:  require(/var/www/vendor/autoload.php): Failed to open stream: No such file or directory in /var/www/artisan on line 18
+PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/www/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/artisan on line 18
+PHP Warning:  require(/var/www/vendor/autoload.php): Failed to open stream: No such file or directory in /var/www/artisan on line 18
+PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/www/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/artisan on line 18
+PHP Warning:  require(/var/www/vendor/autoload.php): Failed to open stream: No such file or directory in /var/www/artisan on line 18
+PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/www/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/artisan on line 18
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
+
+  [37;41m ERROR [39;49m Command "horizon" is not defined.  
+
